@@ -3,7 +3,7 @@
 import React from 'react'
 import { NavLink } from 'react-router-dom'
 import styled from 'styled-components'
-import { PowerBtn } from '../components/AllSvgs'
+import { HomeBtn } from '../components/AllSvgs'
 
 
 const Power = styled.button`
@@ -13,11 +13,11 @@ left: 50%;
 transform: translate(-50%, 0);
 
 background-color: #FCF6F4;
-padding: 0.3rem;
+padding: 0.5rem;
 border-radius: 50%;
-border: 1px solid #000;
-width: 2.5rem;
-height: 2.5rem;
+border: none;
+width: 3rem;
+height: 3rem;
 
 display: flex;
 justify-content: center;
@@ -41,7 +41,7 @@ const PowerButton = () => {
     return (
         <Power>
         <NavLink to="/">
-        <PowerBtn width={30} height={30} fill='currentColor' />
+        <HomeBtn width={30} height={30} fill='currentColor' />
         </NavLink>
         </Power>
     )

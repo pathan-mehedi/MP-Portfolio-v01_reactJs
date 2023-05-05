@@ -2,7 +2,7 @@ import { motion } from "framer-motion";
 import React from "react";
 // import { NavLink } from 'react-router-dom'
 import styled from "styled-components";
-import { Facebook, Github, Twitter, YouTube } from "../components/AllSvgs";
+import { Facebook, Github, InstaGram, LinkedIn, Twitter, YouTube } from "../components/AllSvgs";
 import { DarkTheme } from "../components/Themes";
 
 const Icons = styled.div`
@@ -39,7 +39,8 @@ const SocialIcons = (props) => {
         <a
           style={{ color: "inherit" }}
           target="_blank"
-          href={"https://github.com/codebucks27"}
+          href={"https://github.com/pathan-mehedi"}
+          rel="noreferrer"
         >
           <Github
             width={25}
@@ -56,7 +57,8 @@ const SocialIcons = (props) => {
         <a
           style={{ color: "inherit" }}
           target="_blank"
-          href={"https://twitter.com/code_bucks"}
+          href={"https://twitter.com/monHckr"}
+          rel="noreferrer"
         >
           <Twitter
             width={25}
@@ -73,7 +75,8 @@ const SocialIcons = (props) => {
         <a
           style={{ color: "inherit" }}
           target="_blank"
-          href={"https://facebook.com/codebucks27"}
+          href={"https://facebook.com/monhacker"}
+          rel="facebook-mehedi-pathan noreferrer"
         >
           <Facebook
             width={25}
@@ -90,9 +93,28 @@ const SocialIcons = (props) => {
         <a
           style={{ color: "inherit" }}
           target="_blank"
-          href={"https://youtube.com"}
+          href={"https://instagram.com/mehedi_pathan"} 
+          rel="noreferrer"
         >
-          <YouTube
+          <InstaGram
+            width={25}
+            height={25}
+            fill={props.theme === "dark" ? DarkTheme.text : DarkTheme.body}
+          />
+        </a>
+      </motion.div>
+      <motion.div
+        initial={{scale:0 }}
+        animate={{ scale: [0, 1, 1.5, 1] }}
+        transition={{ type: "spring", duration: 1, delay: 1.6 }}
+      >
+        <a
+          style={{ color: "inherit" }}
+          target="_blank"
+          href={"https://www.linkedin.com/in/mehedi-pathan"} 
+          rel="noreferrer"
+        >
+          <LinkedIn
             width={25}
             height={25}
             fill={props.theme === "dark" ? DarkTheme.text : DarkTheme.body}
