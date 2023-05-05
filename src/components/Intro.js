@@ -80,8 +80,8 @@ const Intro = () => {
             <SubBox>
                 <Text>
                     <h1>Hi,</h1>
-                    <h3>I'm CodeBucks.</h3>
-                    <h6>I design and Code simple yet beautiful websites.</h6>
+                    <h3>I'm Mehedi Pathan.</h3>
+                    <h6>I design and code simple yet stunning, straightforward websites.</h6>
                 </Text>
             </SubBox>
             <SubBox>
@@ -90,7 +90,7 @@ const Intro = () => {
         animate={{opacity: 1}}
         transition={{ duration:1, delay:2 }}
                 >
-                    <img className="pic" src={Me} alt="Profile Pic" />
+                    <img className="pic" src={Me} alt="Profile Pic meehdiPathan" />
                 </motion.div>
             </SubBox>
         </Box>
