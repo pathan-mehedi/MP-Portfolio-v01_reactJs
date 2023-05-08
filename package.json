@@ -1,5 +1,5 @@
 {
-  "name": "mp_portfolio_v01",
+  "name": "mehediPathan",
   "version": "2.0",
   "private": true,
   "dependencies": {
@@ -41,5 +41,10 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "description",
+  "main": "index.js",
+  "repository": "https://github.com/pathan-mehedi/MP-Portfolio-v01_reactJs.git",
+  "author": "Mehedi Pathan",
+  "license": "MIT"
 }

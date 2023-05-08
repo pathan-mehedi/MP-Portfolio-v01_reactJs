@@ -71,8 +71,8 @@ const AboutPage = () => {
           pleasing.😎
           <br /> <br />
           The entire frontend stack piques my attention. like doing excellent
-          projects and attempting new things. I blog and work as a freelancer on
-          my own. I adore reading books and writing blogs.
+          projects and attempting new things. I love to travel and work as a freelancer on
+          my own. I adore reading books and try explore new things.
           <br /> <br />
           When you put your consciousness into anything, everything becomes art,
           in my opinion. Using social media, you may reach out to me.

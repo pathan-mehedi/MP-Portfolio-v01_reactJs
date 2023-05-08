@@ -17,10 +17,8 @@ You might see some differences in implementation such as,
 
 ![Home](https://github.com/pathan-mehedi/MP-Portfolio-v01_reactJs/blob/main/potfolio_images/portfoli_landing_page-or-Home.png)
 ![Intro](https://github.com/pathan-mehedi/MP-Portfolio-v01_reactJs/blob/main/potfolio_images/Intro_desktop.png)
-![Blog](https://github.com/pathan-mehedi/MP-Portfolio-v01_reactJs/blob/main/potfolio_images/Blog_page.png)
 ![Home Mobile](https://github.com/pathan-mehedi/MP-Portfolio-v01_reactJs/blob/main/potfolio_images/Home-Mobile.png)
 ![Intro Mobile](https://github.com/pathan-mehedi/MP-Portfolio-v01_reactJs/blob/main/potfolio_images/Intro-Mobile_landing.png)
-![Intro Blog](https://github.com/pathan-mehedi/MP-Portfolio-v01_reactJs/blob/main/potfolio_images/Blog-Mobile.png)
 
 ### Resources Used in This Project
 
