@@ -30,8 +30,6 @@ background: linear-gradient(
 background-size: 100% 2px;
     border-left: 2px solid ${props => props.theme.body};
     border-right: 2px solid ${props => props.theme.text};
-
-
     z-index:1;
 
 `
@@ -48,7 +46,18 @@ display: flex;
     width: 100%;
     height: auto;
 }
-`
+
+@media (max-width: 768px) {
+    .pic {
+      position: absolute;
+      top: 30%;
+      left: 50%;
+      transform: translate(-50%, 0%);
+      width: 100%;
+      height: auto;
+    }
+  }
+  `  
 
 const Text = styled.div`
 font-size: calc(1em + 1.5vw);
@@ -66,9 +75,6 @@ justify-content: space-evenly;
     font-weight:300;
 
 }
-
-
-
 `
 
 const Intro = () => {
