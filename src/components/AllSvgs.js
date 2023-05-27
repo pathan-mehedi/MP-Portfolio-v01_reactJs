@@ -2,6 +2,7 @@ export const HomeBtn = (props) => {
   return (
     <svg
       aria-hidden="true"
+      aria-label="homeBtn"
       data-prefix="fas"
       data-icon="home-btn"
       className="prefix__svg-inline--fa prefix__fa-power-off prefix__fa-w-16"

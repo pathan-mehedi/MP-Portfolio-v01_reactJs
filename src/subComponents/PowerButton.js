@@ -41,7 +41,7 @@ const PowerButton = () => {
     return (
         <Power>
         <NavLink to="/">
-        <HomeBtn width={30} height={30} fill='currentColor' />
+        <HomeBtn width={30} height={30} fill='currentColor' aria-label='homeBtn' />
         </NavLink>
         </Power>
     )
