@@ -13,6 +13,12 @@ h1,h2,h3,h4,h5,h6{
     display: inline-block;
 }
 
+@media (max-width: 768px) {
+  h1,h2 {
+    font-size: 1.5em;
+  }
+}
+
 
 body{
     margin: 0;

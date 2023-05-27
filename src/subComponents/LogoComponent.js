@@ -16,7 +16,7 @@ z-index:3;
 const LogoComponent = (props) => {
     return (
         <Logo color={props.theme}>
-          Mehedi Pathan
+          M.Pathan
         </Logo>
     )
 }
