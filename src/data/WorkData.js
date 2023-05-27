@@ -25,26 +25,17 @@ export const Work = [
         description:"A cool looking sidebar menu build using ReactJS and styledComponents.It has really smooth animations.",
         tags:["react","styledComponents","react-router"],
         
-        demo:"https://react-sidebar.vercel.app/",
+        demo:"https://mts-sidebar-boiler-v3.netlify.app/",
         github:"https://github.com/"
        
-    },{
-        id:4,
-        name:"Todo App(React + Redux)",
-        description:"A todo app build using Redux-toolkit and framer-motion for smooth animations.",
-        tags:["react","redux","framer-motion"],
-        
-        demo:"http://react-redux-todo-app-git-main-codebucks27.vercel.app/",
-        github:"https://github.com/"
-        
     },
     {
-        id:5,
+        id:4,
         name:"Responsive Navigation Menu",
         description:"A reponsive navbar menu component in ReactJS with react-router functionalities. Built from scratch.",
         tags:["react","react-router","css"],
         
-        demo:"http://react-responsive-navbar-codebucks27.vercel.app/",
+        demo:"https://mts-responsive-navbar.netlify.app/",
         github:"https://github.com/"
         
     },
