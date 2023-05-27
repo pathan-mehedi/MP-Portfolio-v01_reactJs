@@ -38,6 +38,7 @@ const SocialIcons = (props) => {
       >
         <a
           style={{ color: "inherit" }}
+          aria-label="github"
           target="_blank"
           href={"https://github.com/pathan-mehedi"}
           rel="noreferrer"
@@ -56,6 +57,7 @@ const SocialIcons = (props) => {
       >
         <a
           style={{ color: "inherit" }}
+          aria-label="twitter"
           target="_blank"
           href={"https://twitter.com/monHckr"}
           rel="noreferrer"
@@ -74,6 +76,7 @@ const SocialIcons = (props) => {
       >
         <a
           style={{ color: "inherit" }}
+          aria-label="facebook"
           target="_blank"
           href={"https://facebook.com/monhacker"}
           rel="facebook-mehedi-pathan noreferrer"
@@ -92,6 +95,7 @@ const SocialIcons = (props) => {
       >
         <a
           style={{ color: "inherit" }}
+          aria-label="instagram"
           target="_blank"
           href={"https://instagram.com/mehedi_pathan"} 
           rel="noreferrer"
@@ -110,6 +114,7 @@ const SocialIcons = (props) => {
       >
         <a
           style={{ color: "inherit" }}
+          aria-label="linkedin"
           target="_blank"
           href={"https://www.linkedin.com/in/mehedi-pathan"} 
           rel="noreferrer"
