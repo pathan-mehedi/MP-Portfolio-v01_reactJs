@@ -27,7 +27,6 @@ export const Work = [
         
         demo:"https://mts-sidebar-boiler-v3.netlify.app/",
         github:"https://github.com/"
-       
     },
     {
         id:4,
@@ -86,6 +85,16 @@ export const Work = [
         tags:["react","react-router","css"],
         
         demo:"https://mp-signup-signin-auth-v02.netlify.app/",
+        github:"https://github.com/"
+        
+    },
+    {
+        id:10,
+        name:"Simple Feedback App UI",
+        description:"A reponsive signUp and signIn with authentic test design and development using react and animation using sass alsom added material. Built from scratch.",
+        tags:["react","react-router","css"],
+        
+        demo:"https://feedback-ui700.netlify.app/",
         github:"https://github.com/"
         
     },
