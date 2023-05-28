@@ -39,6 +39,55 @@ export const Work = [
         github:"https://github.com/"
         
     },
-    
+    {
+        id:5,
+        name:"Nice Admin Panel Raw",
+        description:"A reponsive dashboard design and developmet using HTML,CSS, Bootstrap. Built from scratch.",
+        tags:["react","react-router","css"],
+        
+        demo:"https://nice-admin-dash-raw.netlify.app/index.html",
+        github:"https://github.com/"
+        
+    },
+    {
+        id:6,
+        name:"sidebar design Dashboard v_0.1",
+        description:"A reponsive dashboard sidebar and developmet using ReactJs, Framer-Motion, React-icon. Built from scratch.",
+        tags:["react","react-router","css"],
+        
+        demo:"https://sidebar-boiler-admin.netlify.app/",
+        github:"https://github.com/"
+        
+    },
+    {
+        id:7,
+        name:"sidebar design Dashboard v_0.2",
+        description:"A reponsive dashboard sidebar and developmet using ReactJs, Framer-Motion, React-icon. Built from scratch.",
+        tags:["react","react-router","css"],
+        
+        demo:"https://sidebar-boilar-dashorlanding.netlify.app/",
+        github:"https://github.com/"
+        
+    },
+    {
+        id:8,
+        name:"MP signUp signIn with auth development",
+        description:"A reponsive signUp and signIn with authentic test design and development using react and animation using sass alsom added material. Built from scratch.",
+        tags:["react","react-router","css"],
+        
+        demo:"https://mp-signup-signin-auth-v01.netlify.app/",
+        github:"https://github.com/"
+        
+    },
+    {
+        id:9,
+        name:"MP signUp signIn with auth v_0.2",
+        description:"A reponsive signUp and signIn with authentic test design and development using react and animation using sass alsom added material. Built from scratch.",
+        tags:["react","react-router","css"],
+        
+        demo:"https://mp-signup-signin-auth-v02.netlify.app/",
+        github:"https://github.com/"
+        
+    },
   
 ] 
